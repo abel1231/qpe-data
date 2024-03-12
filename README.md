@@ -1,4 +1,4 @@
-# LLM4QPE: Unsupervised Pretraining of Quantum Property Estimation and A Benchmark
+# Towards LLM4QPE: Unsupervised Pretraining of Quantum Property Estimation and A Benchmark
 
 This is the official repository of the dataset for the paper [https://openreview.net/forum?id=vrBVFXwAmi](https://openreview.net/forum?id=vrBVFXwAmi).
 
@@ -72,4 +72,4 @@ dataset
 ```
 
 ### How to generate your own dataset
-A demo used to generate small-size dataset of the anisotropic Heisenberg model is provided in `generate_heisenberg.py`. Users can adjust parameters such as the Hamiltonian, the number of qubits, the number of measurements, and the size of the dataset to obtain a customized dataset.
+A demo used to generate small-size dataset of the anisotropic Heisenberg model is provided in `generate_heisenberg.py`. Users can adjust parameters such as the Hamiltonian, the number of qubits, the number of measurements, and the size of samples to obtain a customized dataset.
